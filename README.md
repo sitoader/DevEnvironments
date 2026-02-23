@@ -2,6 +2,8 @@
 
 This repository contains templates and documentation for setting up and managing Azure Dev Center and Dev Box environments. It provides Infrastructure as Code (IaC) templates in various formats (ARM, Bicep, Terraform) to help organizations easily deploy and configure development environments for their teams.
 
+The goal of this repository is to accelerate the adoption of Azure Dev Box by providing the building blocks and step-by-step documentation, to be used out of the box and get started quickly.
+
 ## Overview
 
 Azure Dev Center simplifies the process of setting up and managing development environments by providing tools and configurations for Dev Boxes, network connections, and project-level catalogs. This repository contains everything you need to get started with Azure Dev Center and Dev Box.
